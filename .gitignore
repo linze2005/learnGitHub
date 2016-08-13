@@ -1,0 +1,7 @@
+db.sqlite3
+__pycache__
+TaskBuster.sublime-workspace
+taskbuster/__init__.pyc
+taskbuster/settings.pyc
+taskbuster/urls.pyc
+taskbuster/wsgi.pyc
